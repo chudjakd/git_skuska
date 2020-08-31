@@ -6,5 +6,9 @@ public class metodyPreSrandu {
         System.out.println("Metoda zo skusky");
     }
 
+    public static void metodaSkuskaDalsia(){
+        System.out.println("Som dalsia metoda");
+    }
+
 }
 
