@@ -14,5 +14,7 @@ public class metodyPreSrandu {
         System.out.println("Som dalsia metoda");
     }
 
+    public static void dalsiaMetodaVasko(){
+        System.out.println("Hmm toto je dalsia metoda vo vasko");
+    }
 }
-
