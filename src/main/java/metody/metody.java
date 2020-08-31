@@ -12,4 +12,7 @@ public class metody {
     public static void writeToConsoleThatMilkyJePica(){
         System.out.println("Milky je pica");
     }
+    public static String metodaKtoraVraciaEmptyString(){
+        return "";
+    }
 }
