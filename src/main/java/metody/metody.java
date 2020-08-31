@@ -9,4 +9,7 @@ public class metody {
         numbers.stream().max(Comparator.comparing(Integer::intValue));
         return 0;
     }
+    public static void writeToConsoleThatMilkyJePica(){
+        System.out.println("Milky je pica");
+    }
 }
