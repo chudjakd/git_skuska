@@ -10,7 +10,7 @@ public class metody {
         return 0;
     }
     public static void writeToConsoleThatMilkyJePica(){
-        System.out.println("Milky je pica");
+        System.out.println("Milky je totalna pica nie ze nie");
     }
     public static String metodaKtoraVraciaEmptyString(){
         return "";
