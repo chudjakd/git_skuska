@@ -1,4 +1,12 @@
 package metody;
 
+import java.util.Comparator;
+import java.util.List;
+
 public class metody {
+
+    public static int findMaxNumber(List<Integer> numbers){
+        numbers.stream().max(Comparator.comparing(Integer::intValue));
+        return 0;
+    }
 }
