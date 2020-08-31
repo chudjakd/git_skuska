@@ -1,10 +1,7 @@
 package metody;
 
 public class metodyPreSrandu {
-
-    public static void zbytocnaMetoda(){
-        System.out.println("Nerobim vobec nic");
+    public static void thisMethodIsUseful(){
+        System.out.println("2 +2 je 4");
     }
-
 }
-
